@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{993DA8D1-C3A9-40D8-BE1E-AE92B2279EA4}" SchemaVersion="80">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{993DA8D1-C3A9-40D8-BE1E-AE92B2279EA4}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="PlayerLife" ID="{C6B2F52E-484E-48FA-967B-FE3CAA5C8FA3}">
+					<ChildrenList>
+						<State Name="None" ID="{6A8BEDB4-B9C3-4D1E-883E-A63D8DBE9297}"/>
+						<State Name="Alive" ID="{85E7FCF8-7EDB-4EA8-BFCF-7D9F0EB53849}"/>
+						<State Name="Dead" ID="{D1B05715-145C-4C29-B913-8A1E8DD66089}"/>
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="Alive" ID="{85E7FCF8-7EDB-4EA8-BFCF-7D9F0EB53849}"/>
+							<EndState Name="Dead" ID="{D1B05715-145C-4C29-B913-8A1E8DD66089}"/>
+							<Time>3</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+				<StateGroup Name="Battle" ID="{26BA1390-A497-4321-BA51-C5E46C437588}">
+					<ChildrenList>
+						<State Name="None" ID="{3EC79C05-85FA-4325-8E6B-395DEC1CACA1}"/>
+						<State Name="InBattle" ID="{3FD442A6-FED2-4AD6-A5D8-E4C56523B3CC}"/>
+						<State Name="NoBattle" ID="{5BB2E7F4-189A-4BF9-A540-FE6620DF0696}"/>
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="NoBattle" ID="{5BB2E7F4-189A-4BF9-A540-FE6620DF0696}"/>
+							<EndState Name="InBattle" ID="{3FD442A6-FED2-4AD6-A5D8-E4C56523B3CC}"/>
+							<Time>1</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="InBattle" ID="{3FD442A6-FED2-4AD6-A5D8-E4C56523B3CC}"/>
+							<EndState Name="NoBattle" ID="{5BB2E7F4-189A-4BF9-A540-FE6620DF0696}"/>
+							<Time>1</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="None" ID="{3EC79C05-85FA-4325-8E6B-395DEC1CACA1}"/>
+							<EndState Name="NoBattle" ID="{5BB2E7F4-189A-4BF9-A540-FE6620DF0696}"/>
+							<Time>1</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

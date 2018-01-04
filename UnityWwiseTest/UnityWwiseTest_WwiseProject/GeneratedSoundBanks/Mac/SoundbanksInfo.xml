@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="125">
+	<RootPaths>
+		<ProjectRoot>D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\GeneratedSoundBanks\Mac\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
+			<ShortName>Music</ShortName>
+			<Path>Music.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3827058668" Name="StartMusic" ObjectPath="\Events\Default Work Unit\StartMusic"/>
+				<Event Id="647004571" Name="StartRhythmic" ObjectPath="\Events\Default Work Unit\StartRhythmic" MaxAttenuation="5.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="690693778" Language="SFX">
+					<ShortName>M2-ImminentDanger_160BPM.wav</ShortName>
+					<Path>SFX\M2-ImminentDanger_160BPM_F17FB28C.wem</Path>
+				</File>
+				<File Id="927621210" Language="SFX">
+					<ShortName>33359__hello-flowers__9obpm-flowers-evil-creams-4.wav</ShortName>
+					<Path>SFX\33359__hello-flowers__9obpm-flowers-evil-creams-4_F17FB28C.wem</Path>
+				</File>
+				<File Id="932160744" Language="SFX">
+					<ShortName>M2-PoolOrOutdoor_90BPM.wav</ShortName>
+					<Path>SFX\M2-PoolOrOutdoor_90BPM_F17FB28C.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

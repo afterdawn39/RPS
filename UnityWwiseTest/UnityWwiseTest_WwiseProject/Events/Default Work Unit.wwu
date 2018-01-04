@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{EB5991D6-4243-430D-889A-96012565D97D}" SchemaVersion="80">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{EB5991D6-4243-430D-889A-96012565D97D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="StartMusic" ID="{5DE4E5D9-ABEA-4949-9A9C-F9A754AD929F}">
+					<ChildrenList>
+						<Action Name="" ID="{46BEB306-2239-46A8-8E0D-AF2A7D5CB82A}" ShortID="58603237">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MusicSwitchContainer" ID="{08CEA7DD-A9A7-4387-85A0-9F71F45B9FD6}" WorkUnitID="{FE16A6E8-6492-4562-B8F3-E0BA7E0BB35E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="StartRhythmic" ID="{0F04E40F-26F1-419B-8DF3-666D71FBCC7D}">
+					<ChildrenList>
+						<Action Name="" ID="{FB00910D-FCAE-48BA-9B8A-D3DFB27AFB5F}" ShortID="107183530">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Rhythmic" ID="{8879A013-3CE2-47CA-B86C-8BDA9BDA0041}" WorkUnitID="{FE16A6E8-6492-4562-B8F3-E0BA7E0BB35E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

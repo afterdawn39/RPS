@@ -1,0 +1,24 @@
+Event	ID	Name			Wwise Object Path	Notes
+	647004571	StartRhythmic			\Default Work Unit\StartRhythmic	
+	3827058668	StartMusic			\Default Work Unit\StartMusic	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	444815956	PlayerLife			\Default Work Unit\PlayerLife	
+	2937832959	Battle			\Default Work Unit\Battle	
+
+State	ID	Name	State Group			Notes
+	655265632	Alive	PlayerLife			
+	748895195	None	PlayerLife			
+	2044049779	Dead	PlayerLife			
+	717651098	InBattle	Battle			
+	748895195	None	Battle			
+	3826921338	NoBattle	Battle			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	223999642	Dead	PlayerLife	\Interactive Music Hierarchy\Default Work Unit\MusicSwitchContainer\MainThemeLoop		
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	690693778	M2-ImminentDanger_160BPM	D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\.cache\Mac\SFX\M2-ImminentDanger_160BPM_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\MusicSwitchContainer\ImminentDangerLoop\M2-ImminentDanger_160BPM\M2-ImminentDanger_160BPM		17992944
+	927621210	33359__hello-flowers__9obpm-flowers-evil-creams-4	D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\.cache\Mac\SFX\33359__hello-flowers__9obpm-flowers-evil-creams-4_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\Rhythmic\Rhythmic\33359__hello-flowers__9obpm-flowers-evil-creams-4		704576
+	932160744	M2-PoolOrOutdoor_90BPM	D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\.cache\Mac\SFX\M2-PoolOrOutdoor_90BPM_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\MusicSwitchContainer\MainThemeLoop\M2-PoolOrOutdoor_90BPM\M2-PoolOrOutdoor_90BPM		23061296
+

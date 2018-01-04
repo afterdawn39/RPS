@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="80">
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3579119782" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="3513572690" DateHigh="30634016"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="3579109781" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1866162293" DateHigh="30633808"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="3579129783" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="3579129783" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="3579139784" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Effects\Default Work Unit.wwu" DateLow="3579139784" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Effects\Factory Effects.wwu" DateLow="3579139784" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Events\Default Work Unit.wwu" DateLow="1377793410" DateHigh="30636205"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="3579149785" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="821729805" DateHigh="30636207"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3579159786" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="3579089779" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Modulators\Default Work Unit.wwu" DateLow="3579169787" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Presets\Default Work Unit.wwu" DateLow="3579179788" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Queries\Default Work Unit.wwu" DateLow="3579209791" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Queries\Factory Queries.wwu" DateLow="3579209791" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1377983429" DateHigh="30636205"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="3579229793" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\States\Default Work Unit.wwu" DateLow="1377923423" DateHigh="30636205"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1377853416" DateHigh="30636205"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="3579249795" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\UnityWwiseTest_WwiseProject.martse.wsettings" DateLow="1090272509" DateHigh="30636208"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\UnityWwiseTest_WwiseProject.wproj" DateLow="3579089779" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest\UnityWwiseTest_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="3579249795" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3332305103" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="3332735146" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="3332935166" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="3332915164" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="3332825155" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="2360801078" DateHigh="30632221"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="3332755148" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Effects\Default Work Unit.wwu" DateLow="3332535126" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Effects\Factory Effects.wwu" DateLow="2360831081" DateHigh="30632221"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Events\Default Work Unit.wwu" DateLow="3332365109" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="3332495122" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="3332655138" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3332265099" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="3332785151" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Modulators\Default Work Unit.wwu" DateLow="3332875160" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Presets\Default Work Unit.wwu" DateLow="3332565129" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Queries\Default Work Unit.wwu" DateLow="3332625135" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Queries\Factory Queries.wwu" DateLow="2360871085" DateHigh="30632221"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="3332455118" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="3332595132" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\States\Default Work Unit.wwu" DateLow="3332425115" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Switches\Default Work Unit.wwu" DateLow="3332395112" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="3332695142" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\UnityWwiseTest_WwiseProject.wproj" DateLow="3332185091" DateHigh="30633805"/>
+	<ValidationCacheItem File="D:\UnityProjects\UnityWwiseTest_WwiseIntegrationTemp\UnityWwiseTest_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="3332965169" DateHigh="30633805"/>
+</ValidationCache>
