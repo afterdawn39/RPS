@@ -16,8 +16,8 @@ MonoBehaviour:
   - PhysicalPath: Events\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{EB5991D6-4243-430D-889A-96012565D97D}'
-    m_lastTimePsrt1: -1566078250
-    m_lastTimePart2: -1999285427
+    m_lastTimePsrt1: 882058800
+    m_lastTimePart2: -1999285404
     List:
     - Name: StartMusic
       Path: Default Work Unit\StartMusic
@@ -38,20 +38,20 @@ MonoBehaviour:
         ObjectType: 3
       ID: 647004571
       Guid: 0fe4040ff1269b418df3666d71fbcc7d
-      maxAttenuation: 5
+      maxAttenuation: 0
   AuxBusWwu:
   - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{D5326282-E850-4B8D-878E-912960D8AF48}'
-    m_lastTimePsrt1: -137583382
-    m_lastTimePart2: -1999291036
+    m_lastTimePsrt1: 888089403
+    m_lastTimePart2: -1999285404
     List: []
   StateWwu:
   - PhysicalPath: States\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{993DA8D1-C3A9-40D8-BE1E-AE92B2279EA4}'
-    m_lastTimePsrt1: 468082461
-    m_lastTimePart2: -1999285420
+    m_lastTimePsrt1: 891709765
+    m_lastTimePart2: -1999285404
     List:
     - Name: Battle
       Path: Default Work Unit\Battle
@@ -107,15 +107,15 @@ MonoBehaviour:
   - PhysicalPath: Switches\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{FC61F5F1-7EFF-436A-91C2-4180B851CC3E}'
-    m_lastTimePsrt1: 1956077544
-    m_lastTimePart2: -1999288636
+    m_lastTimePsrt1: 891719766
+    m_lastTimePart2: -1999285404
     List: []
   BankWwu:
   - PhysicalPath: SoundBanks\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{10A49497-6713-4447-A2C0-577A563C98A4}'
-    m_lastTimePsrt1: 1956207557
-    m_lastTimePart2: -1999288636
+    m_lastTimePsrt1: 891709765
+    m_lastTimePart2: -1999285404
     List:
     - Name: Music
       Path: Default Work Unit\Music
@@ -130,15 +130,15 @@ MonoBehaviour:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{E6798160-3832-4B21-92DF-17828E5600F2}'
-    m_lastTimePsrt1: -137593383
-    m_lastTimePart2: -1999291036
+    m_lastTimePsrt1: 882058800
+    m_lastTimePart2: -1999285404
     List: []
   TriggerWwu:
   - PhysicalPath: Triggers\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{06859D7A-53F9-407D-8C12-56CA3755070E}'
-    m_lastTimePsrt1: -137493373
-    m_lastTimePart2: -1999291036
+    m_lastTimePsrt1: 891719766
+    m_lastTimePart2: -1999285404
     List: []
   ExpandedItems:
   - /UnityWwiseTest_WwiseProject

@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Unity/Level generation/Base levelgen.unity
-  isLoaded: 1
-  isActive: 1

@@ -247,7 +247,7 @@
 								<MusicSegment Name="M2-ImminentDanger_160BPM" ID="{E792FC97-6023-4924-BB0E-9D4BBDFA9697}" ShortID="300426661">
 									<PropertyList>
 										<Property Name="EndPosition" Type="Real64" Value="102000"/>
-										<Property Name="OverrideClockSettings" Type="bool" Value="True"/>
+										<Property Name="Tempo" Type="Real64" Value="160"/>
 									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
